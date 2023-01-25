@@ -194,3 +194,24 @@
     margin-bottom: 0;
   }
   
+  @media (max-width:480px) {
+    .modal {
+      width: 350px;
+    }
+    .section-container {
+      width: 380px;
+    }
+
+    h1 {
+      font-size: 40px;
+      text-align: justify;
+      margin-left: 13px;
+    }
+
+    h3, p {
+      padding: 0 5px 0 5px;
+      text-align: justify;
+    }
+
+
+  }
