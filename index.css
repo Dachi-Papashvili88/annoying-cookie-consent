@@ -209,10 +209,8 @@
     }
 
     h3, p {
-      padding: 0 5px 0 5px;
       text-align: justify;
       margin-left: 20px;
-      
 
     }
       ul {
@@ -231,8 +229,8 @@
         margin-left: 17px;
       }
 
-      input {
-      margin: 23px 0 0 0;
+      .modal-text {
+        margin-left: 0;
       }
 
   }
